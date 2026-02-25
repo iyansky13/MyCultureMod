@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<NPCCharacters>
+    <NPCCharacter id="republic_lord_1_9" name="{=QjJAbaoT}Apys" age="57" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.republic" skill_template="SkillSet.spc_physician_skills" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <!--face_key value="000b7da440bc300e669e57882765477b8bb7397b87a7a78b85a54998ac6579dc000c586609868975000000000000000000000000000000000000000000005040" /-->
+            <BodyProperties version="4" weight="0.95" build="0.5" key="000B7C0440BC300E669E57882765477B8BB7397B87A7A78B85A54998AC6579DC0007086A09868975000000000000000000000000000000000000000000005040" />
+            <hair_tags>
+                <hair_tag name="empire" />
+            </hair_tags>
+            <beard_tags>
+                <beard_tag name="empire" />
+            </beard_tags>
+            <tattoo_tags>
+                <tattoo_tag name="Cleanface" />
+            </tattoo_tags>
+        </face>
+        <skills />
+        <Traits>
+            <Trait id="BalancedFightingSkills" value="3" />
+            <Trait id="Commander" value="8" />
+            <Trait id="Politician" value="14" />
+            <Trait id="Manager" value="8" />
+            <Trait id="Mercy" value="-1" />
+            <Trait id="Honor" value="-1" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Generosity" value="-1" />
+            <Trait id="Calculating" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="emp_bat_template_flamboyant" />
+            <EquipmentSet id="emp_civ_template_flamboyant" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="republic_lord_1_10" name="{=WnhPFlON}Melkea" age="45" voice="ironic" is_female="true" is_hero="true" culture="Culture.republic" skill_template="SkillSet.spc_chatelaine_skills" occupation="Lord" default_group="Cavalry" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" weight="0.4241" build="0.7095" key="000BAC0A00141004B77326194AC4402599338A6798924403D8C24F3379749A46047B6646071634C300000000000000000000000000000000000000001EF41083" />
+            <hair_tags>
+                <hair_tag name="empire" />
+            </hair_tags>
+            <tattoo_tags>
+                <tattoo_tag name="Cleanface" />
+            </tattoo_tags>
+        </face>
+        <skills />
+        <Traits>
+            <!--NONCOMBATANT FEMALE-->
+            <Trait id="Politician" value="16" />
+            <Trait id="Manager" value="12" />
+            <!-- Melkea, wife of Apys Varros. Equally amoral. -->
+            <Trait id="Mercy" value="-1" />
+            <Trait id="Honor" value="-1" />
+            <Trait id="Calculating" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="emp_bat_template_lady" />
+            <EquipmentSet id="emp_noncom_template_flamboyant" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+</NPCCharacters>

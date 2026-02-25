@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+	<!-- Nord clan 3 -->
+	<Hero
+		id="saxon_lord_7_5"
+		spouse="Hero.saxon_lord_7_6"
+		faction="Faction.clan_saxon_1"
+		text="{=!}Saxon King SPheroes." />
+	<Hero
+		id="saxon_lord_7_6"
+		spouse="Hero.saxon_lord_7_5"
+		faction="Faction.clan_saxon_1" />
+</Heroes>

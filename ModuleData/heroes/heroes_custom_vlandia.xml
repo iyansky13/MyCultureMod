@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+	<Hero
+		id="rhodok_lord_1_1"
+		spouse="Hero.rhodok_lord_1_2"
+		faction="Faction.clan_rhodok_1" />
+	<Hero
+		id="rhodok_lord_1_2"
+		spouse="Hero.rhodok_lord_1_1"
+		faction="Faction.clan_rhodok_1" />
+</Heroes>

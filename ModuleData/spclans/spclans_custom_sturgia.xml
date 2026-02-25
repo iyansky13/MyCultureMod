@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+	<Faction
+		id="clan_vaegir_1"
+		initial_home_settlement="Settlement.town_S5"
+		name="{=!}Vaegir Clan 1"
+		tier="4"
+		owner="Hero.vaegir_lord_2_5"
+		culture="Culture.vaegir"
+		super_faction="Kingdom.vaegir"
+		is_noble="true"
+		banner_key="11.167.12.4922.4922.764.764.1.0.0.347.111.0.325.325.764.685.0.0.0.302.111.0.408.408.669.890.0.0.60.302.111.0.408.408.859.890.0.0.300" />
+
+</Factions>

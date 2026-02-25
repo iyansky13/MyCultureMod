@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+	<!-- Sturgia clan 3 -->
+	<Hero
+		id="vaegir_lord_2_5"
+		spouse="Hero.vaegir_lord_2_6"
+		faction="Faction.clan_vaegir_1"
+		text="{=6lZGNChB}Godun is lord of the Vagiroving, one of the younger houses of the Sturgians. His people have always been as interested in trade as they have been in war, although Godun himself is everything a prince might want: cooperative, prompt to pay his feudal dues, quick to respond to his liege's calls to arms. Yet Raganvad has never fully trusted him, because it is hard to imagine a Vagiroving without his own long-term plan for personal aggrandizement." />
+	<Hero
+		id="vaegir_lord_2_6"
+		spouse="Hero.vaegir_lord_2_5"
+		faction="Faction.clan_vaegir_1" />
+
+</Heroes>

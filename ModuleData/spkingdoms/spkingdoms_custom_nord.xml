@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<!--TODO_DESIGN_NAVAL-->
+	<Kingdom
+		id="saxon"
+		initial_home_settlement="Settlement.town_V9"
+		owner="Hero.saxon_lord_7_5"
+		banner_key="11.218.218.4345.4345.764.764.1.0.0.175.219.219.512.512.764.764.1.0.0"
+		primary_banner_color="0xffb7623c"
+		secondary_banner_color="0xff202931"
+		color="FFb7623c"
+		color2="FF202931"
+		culture="Culture.saxon"
+		settlement_banner_mesh="encounter_flag_a"
+		flag_mesh="info_screen_flags_b"
+		name="{=!}Saxon"
+		short_name="{=!}Saxon"
+		title="{=hvcyO1P4}Kingdom of the Saxon"
+		ruler_title="{=!}King"
+		text="{=!}Saxon SPKingdoms Text.">
+		<relationships>
+			<relationship
+				kingdom="Kingdom.vlandia"
+				value="-1"
+				isAtWar="true" />
+		</relationships>
+		<policies>
+			<policy
+				id="policy_feudal_inheritance" />
+		</policies>
+	</Kingdom>
+</Kingdoms>

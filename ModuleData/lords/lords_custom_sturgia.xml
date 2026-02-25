@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+	<!-- Godun, lord of clan 3, the more outward looking of the three
+voice="Male, northern accent, older, authoritative and competent"-->
+	<NPCCharacter
+		id="vaegir_lord_2_5"
+		name="{=!}Vaegir King"
+		default_group="Cavalry"
+		age="50"
+		voice="softspoken"
+		is_hero="true"
+		culture="Culture.vaegir"
+		skill_template="SkillSet.spc_swordsman_skills"
+		occupation="Lord"
+		face_mesh_cache="true">
+		<face>
+			<BodyProperties
+				version="4"
+				weight="0.7289"
+				build="0.7611"
+				key="0000300140001384967132012584CCB36EC472158520143875848D198317281906BBB0680B68CB80000000000000000000000000000000000000000073788003" />
+			<hair_tags>
+				<hair_tag
+					name="sturgia" />
+			</hair_tags>
+			<beard_tags>
+				<beard_tag
+					name="sturgia" />
+			</beard_tags>
+			<tattoo_tags>
+				<tattoo_tag
+					name="Cleanface" />
+			</tattoo_tags>
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="HopliteFightingSkills"
+				value="5" />
+			<Trait
+				id="Commander"
+				value="14" />
+			<Trait
+				id="Politician"
+				value="10" />
+			<Trait
+				id="Manager"
+				value="16" />
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet
+				id="stu_bat_template_medium" />
+			<EquipmentSet
+				id="stu_civ_template_default"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- Erta, matriarch of clan 3 -->
+	<NPCCharacter
+		id="vaegir_lord_2_6"
+		name="{=!}Vaegir Queen"
+		voice="earnest"
+		default_group="Cavalry"
+		age="47"
+		is_hero="true"
+		is_female="true"
+		culture="Culture.vaegir"
+		skill_template="SkillSet.spc_courtier_skills"
+		occupation="Lord"
+		face_mesh_cache="true">
+		<face>
+			<BodyProperties
+				version="4"
+				weight="0.6953"
+				build="0.6326"
+				key="00050405007020075B7445315583A1B9864D8716668A93288847E81474585B540589A6570833596C0000000000000000000000000000000000000000470420C1" />
+			<hair_tags>
+				<hair_tag
+					name="sturgia" />
+			</hair_tags>
+			<tattoo_tags>
+				<tattoo_tag
+					name="Cleanface" />
+			</tattoo_tags>
+		</face>
+		<Traits>
+			<!--NONCOMBATANT FEMALE-->
+			<Trait
+				id="Politician"
+				value="10" />
+			<Trait
+				id="Manager"
+				value="14" />
+			<Trait
+				id="Generosity"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="stu_bat_template_medium" />
+			<EquipmentSet
+				id="stu_noncom_template_default"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	
+</NPCCharacters>

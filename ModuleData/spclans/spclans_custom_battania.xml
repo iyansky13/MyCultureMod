@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+	<Faction
+		id="clan_barbarian_1"
+		initial_home_settlement="Settlement.town_EN1"
+		name="{=!}Barbarian Clan 1"
+		tier="4"
+		owner="Hero.barbarian_lord_5_5"
+		culture="Culture.barbarian"
+		super_faction="Kingdom.barbarian"
+		is_noble="true"
+		banner_key="11.23.75.4345.4345.764.764.1.0.0.427.39.0.261.261.764.869.0.0.359.133.39.0.380.380.764.696.0.0.0" />
+
+</Factions>

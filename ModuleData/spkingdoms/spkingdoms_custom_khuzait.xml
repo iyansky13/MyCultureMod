@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+	<Kingdom
+		id="khergit"
+		initial_home_settlement="Settlement.town_K1"
+		owner="Hero.khergit_lord_6_16"
+		banner_key="11.10.10.1536.1536.764.764.1.0.0.461.11.11.497.497.764.764.1.0.0"
+		primary_banner_color="0xffEFC990"
+		secondary_banner_color="0xff429081"
+		color="FFCCBB89"
+		color2="FF468C7C"
+		culture="Culture.khergit"
+		settlement_banner_mesh="encounter_flag_f"
+		flag_mesh="info_screen_flags_b"
+		name="{=!}Khergit"
+		short_name="{=!}Khergits"
+		title="{=!}Khergit Khanate"
+		ruler_title="{=!}King"
+		text="{=!}Khergit SPKingdoms Text.">
+		<relationships>
+			<relationship
+				kingdom="Kingdom.empire"
+				value="-1"
+				isAtWar="true" />
+		</relationships>
+	</Kingdom>
+</Kingdoms>

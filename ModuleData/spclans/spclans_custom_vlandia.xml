@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+	<Faction
+		id="clan_rhodok_1"
+		initial_home_settlement="Settlement.town_V3"
+		name="{=!}Clan Rhodok 1"
+		tier="4"
+		owner="Hero.rhodok_lord_1_1"
+		culture="Culture.rhodok"
+		super_faction="Kingdom.rhodok"
+		is_noble="true"
+		banner_key="11.184.14.4922.4922.764.764.1.0.0.419.15.0.454.454.764.764.0.0.0.512.15.0.125.125.653.887.0.0.0.512.15.0.125.125.875.641.0.0.0.512.15.0.125.125.869.887.0.0.0.512.15.0.125.125.653.641.0.0.0" />
+</Factions>

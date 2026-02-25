@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+	<!-- Banu Qild, a proud ascetic clan -->
+	<!-- Tais al-Qildi, harsh patriarch -->
+	<NPCCharacter
+		id="sarranid_lord_3_5"
+		name="{=iOZtAOgk}Sarranid King"
+		age="45"
+		voice="curt"
+		default_group="HorseArcher"
+		is_hero="true"
+		culture="Culture.sarranid"
+		occupation="Lord"
+		face_mesh_cache="true">
+		<face>
+			<BodyProperties
+				version="4"
+				weight="0.5192"
+				build="0.5431"
+				key="001CE008800023959B83263A29717DE32CD881249354432699A85C598A0A58590588805708986484000000000000000000000000000000000000000035085041" />
+			<hair_tags>
+				<hair_tag
+					name="aserai" />
+			</hair_tags>
+			<beard_tags>
+				<beard_tag
+					name="aserai" />
+			</beard_tags>
+			<tattoo_tags>
+				<tattoo_tag
+					name="Cleanface" />
+			</tattoo_tags>
+		</face>
+		<skills>
+			<skill
+				id="OneHanded"
+				value="180" />
+			<skill
+				id="TwoHanded"
+				value="180" />
+			<skill
+				id="Polearm"
+				value="180" />
+			<skill
+				id="Bow"
+				value="150" />
+			<skill
+				id="Crossbow"
+				value="120" />
+			<skill
+				id="Throwing"
+				value="120" />
+			<skill
+				id="Riding"
+				value="140" />
+			<skill
+				id="Athletics"
+				value="120" />
+			<skill
+				id="Crafting"
+				value="30" />
+			<skill
+				id="Tactics"
+				value="35" />
+			<skill
+				id="Scouting"
+				value="35" />
+			<skill
+				id="Roguery"
+				value="30" />
+			<skill
+				id="Leadership"
+				value="80" />
+			<skill
+				id="Charm"
+				value="100" />
+			<skill
+				id="Trade"
+				value="100" />
+			<skill
+				id="Steward"
+				value="120" />
+			<skill
+				id="Medicine"
+				value="40" />
+			<skill
+				id="Engineering"
+				value="30" />
+		</skills>
+		<Traits>
+			<Trait
+				id="BalancedFightingSkills"
+				value="6" />
+			<Trait
+				id="Commander"
+				value="8" />
+			<Trait
+				id="Politician"
+				value="10" />
+			<Trait
+				id="Manager"
+				value="12" />
+			<Trait
+				id="Calculating"
+				value="1" />
+			<Trait
+				id="Honor"
+				value="1" />
+			<Trait
+				id="Mercy"
+				value="-1" />
+			<Trait
+				id="Generosity"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet
+				id="ase_bat_template_flamboyant" />
+			<EquipmentSet
+				id="ase_civ_template_flamboyant"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- Ruma, fierce, shames lords who do not uphold honor. Zeinab al-Ghazali type -->
+	<NPCCharacter
+		id="sarranid_lord_3_6"
+		name="{=nBDKxiyC}Sarranid Queen"
+		age="41"
+		voice="curt"
+		is_female="true"
+		default_group="Infantry"
+		is_hero="true"
+		culture="Culture.sarranid"
+		skill_template="SkillSet.spc_diplomat_skills"
+		occupation="Lord"
+		face_mesh_cache="true">
+		<face>
+			<BodyProperties
+				version="4"
+				weight="0.3981"
+				build="0.2729"
+				key="0022D80B400020128982510588A2A7348A60717AC375A0229E99C736896F575501A466130A1CB332000000000000000000000000000000000000000007542043" />
+			<hair_tags>
+				<hair_tag
+					name="aserai" />
+			</hair_tags>
+			<tattoo_tags>
+				<tattoo_tag
+					name="Cleanface" />
+			</tattoo_tags>
+		</face>
+		<skills></skills>
+		<Traits>
+			<!--NONCOMBATANT FEMALE-->
+			<Trait
+				id="Politician"
+				value="12" />
+			<Trait
+				id="Manager"
+				value="10" />
+			<Trait
+				id="Honor"
+				value="1" />
+			<Trait
+				id="Generosity"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="ase_bat_template_lady" />
+			<EquipmentSet
+				id="ase_noncom_template_bedouin"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+</NPCCharacters>

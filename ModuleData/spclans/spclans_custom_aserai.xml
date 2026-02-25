@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+	<Faction
+		id="clan_sarranid_1"
+		initial_home_settlement="Settlement.town_A5"
+		name="{=!}Sarranid Clan 1"
+		tier="5"
+		owner="Hero.sarranid_lord_3_5"
+		culture="Culture.sarranid"
+		super_faction="Kingdom.sarranid"
+		is_noble="true"
+		banner_key="11.156.75.4345.4345.764.764.1.0.0.446.1.0.381.381.764.764.0.0.359.309.1.0.325.325.627.764.0.0.320.309.1.0.323.323.901.764.0.0.146" />
+
+</Factions>

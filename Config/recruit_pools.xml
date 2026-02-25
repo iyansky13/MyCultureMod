@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+    Normal Recruit Pools Configuration
+    These troops spawn in towns and villages bound to towns
+    Place this file in: Modules/MyCultureMod/ModuleData/recruit_pools.xml
+-->
+<RecruitPools>
+    
+    <!-- ===== VANILLA CULTURES ===== -->
+    
+    <Culture id="empire">
+        <Troop id="aserai_recruit" weight="70" />
+        <Troop id="sturgian_recruit" weight="30" />
+    </Culture>
+    
+    <Culture id="sturgia">
+        <Troop id="sturgian_recruit" weight="70" />
+        <Troop id="aserai_recruit" weight="30" />
+    </Culture>
+    
+    <Culture id="aserai">
+        <Troop id="aserai_recruit" weight="70" />
+        <Troop id="vlandian_recruit" weight="30" />
+    </Culture>
+    
+    <Culture id="vlandia">
+        <Troop id="vlandian_recruit" weight="70" />
+        <Troop id="aserai_recruit" weight="30" />
+    </Culture>
+    
+    <Culture id="battania">
+        <Troop id="battanian_volunteer" weight="70" />
+        <Troop id="khuzait_nomad" weight="30" />
+    </Culture>
+    
+    <Culture id="khuzait">
+        <Troop id="khuzait_nomad" weight="70" />
+        <Troop id="battanian_volunteer" weight="30" />
+    </Culture>
+    
+    <!-- ===== CUSTOM CULTURES ===== -->
+    
+    <!-- Sarranid - Multiple recruit types with different troop trees -->
+    <Culture id="sarranid">
+        <Troop id="khuzait_nomad" weight="70" />         <!-- 60% - Infantry line -->
+        <Troop id="battanian_volunteer" weight="30" />  <!-- 25% - Archer line -->
+    </Culture>
+    
+    <!-- Rhodok - Infantry and crossbow focus -->
+    <Culture id="rhodok">
+        <Troop id="battanian_volunteer" weight="70" />
+        <Troop id="vlandian_recruit" weight="30" />
+    </Culture>
+    
+    <!-- Saxon (Nord) - Viking warriors -->
+    <Culture id="saxon">
+        <Troop id="khuzait_nomad" weight="70" />
+        <Troop id="aserai_recruit" weight="30" />
+    </Culture>
+    
+    <!-- Vaegir - Balanced infantry and archers -->
+    <Culture id="vaegir">
+        <Troop id="vlandian_recruit" weight="50" />
+        <Troop id="aserai_recruit" weight="50" />
+    </Culture>
+    
+    <!-- Barbarian - Forest warriors -->
+    <Culture id="barbarian">
+        <Troop id="aserai_recruit" weight="70" />
+        <Troop id="sturgian_recruit" weight="30" />
+    </Culture>
+    
+</RecruitPools>

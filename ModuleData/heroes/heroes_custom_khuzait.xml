@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+	<Hero
+		id="khergit_lord_6_16"
+		spouse="Hero.khergit_lord_6_16_1"
+		faction="Faction.clan_khergit_1" />
+	<Hero
+		id="khergit_lord_6_16_1"
+		spouse="Hero.khergit_lord_6_16"
+		faction="Faction.clan_khergit_1" />
+</Heroes>

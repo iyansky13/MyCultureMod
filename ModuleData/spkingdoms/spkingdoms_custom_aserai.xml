@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+	<Kingdom
+		id="sarranid"
+		initial_home_settlement="Settlement.town_A5"
+		owner="Hero.sarranid_lord_3_5"
+		banner_key="11.0.0.4345.4345.764.764.1.0.0.463.1.1.466.466.764.764.1.0.0"
+		primary_banner_color="0xff4E1A13"
+		secondary_banner_color="0xffB57A1E"
+		color="FF4F2212"
+		color2="FF965228"
+		culture="Culture.sarranid"
+		settlement_banner_mesh="encounter_flag_c"
+		flag_mesh="info_screen_flags_a"
+		name="{=!}Sarranid"
+		short_name="{=!}Sarranid"
+		title="{=!}Sultanate of the Sarranid"
+		ruler_title="{=!}Sultan"
+		text="{=!}Sarranid SPKingdom text.">
+		<relationships>
+			<relationship
+				kingdom="Kingdom.empire_s"
+				value="-1"
+				isAtWar="true" />
+		</relationships>
+	</Kingdom>
+
+</Kingdoms>

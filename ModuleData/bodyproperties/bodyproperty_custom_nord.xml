@@ -1,0 +1,1148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BodyProperties>
+	<BodyProperty
+		id="villager_saxon">
+		<BodyPropertiesMin
+			version="4"
+			age="24.03"
+			weight="0.4867"
+			build="0.4423"
+			key="00000400000000002110000001011010010211111010002011111001301101000060600306112000000000000000000000000000000000000000000000D00000" />
+		<BodyPropertiesMax
+			version="4"
+			age="78.04"
+			weight="0.9336"
+			build="0.9244"
+			key="0008F004DE003A5FFEFEEFFEAAAFFFFFF8FFFF979EF8FFFEFFFFFFEFFEFB9F9F00EBB0030EFFFFFF000000000000000000000000000000000000000077C89005" />
+		<hair_tags>
+			<hair_tag
+				name="Bald" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Ponytail" />
+			<hair_tag
+				name="LongAndBushy" />
+			<hair_tag
+				name="Mohawk" />
+			<hair_tag
+				name="TiedAcrossBack" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="SlickedLong" />
+			<hair_tag
+				name="Bandit Hair 2" />
+			<hair_tag
+				name="PartedAndCombedBack" />
+			<hair_tag
+				name="Bandit Hair 3" />
+			<hair_tag
+				name="HighPonytail" />
+			<hair_tag
+				name="Mohawk" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="Bowl" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="Monk Hair" />
+		</hair_tags>
+		<beard_tags>
+			<beard_tag
+				name="Cleanshaven" />
+			<beard_tag
+				name="DroopyMustache" />
+			<beard_tag
+				name="DroopyMustache" />
+			<beard_tag
+				name="DutchTiedBeard" />
+			<beard_tag
+				name="BeardWithShavedCheeks" />
+			<beard_tag
+				name="LightShortBeard" />
+			<beard_tag
+				name="LongTiedBeard" />
+			<beard_tag
+				name="HeavyShortBeard" />
+			<beard_tag
+				name="PointedShortBeard" />
+			<beard_tag
+				name="PointedShortBeard" />
+			<beard_tag
+				name="LongBeard" />
+			<beard_tag
+				name="LongBeard" />
+			<beard_tag
+				name="HeavyLongBeard" />
+			<beard_tag
+				name="HeavyLongBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongTiedBeard" />
+			<beard_tag
+				name="DroopingMustacheAndBeard" />
+			<beard_tag
+				name="TiedBeardShavenCheeks" />
+			<beard_tag
+				name="BraidedAndFullBeard" />
+			<beard_tag
+				name="TiedBeardShavenCheeks" />
+			<beard_tag
+				name="ChinGoatee" />
+			<beard_tag
+				name="FrenchForkBeard" />
+			<beard_tag
+				name="FrenchForkBeardBalbo" />
+			<beard_tag
+				name="BushyBandholz" />
+			<beard_tag
+				name="BushyBandholzLong" />
+			<beard_tag
+				name="BushyBandholzWide" />
+			<beard_tag
+				name="GaribaldiBeard" />
+			<beard_tag
+				name="BushyBandholzLong" />
+			<beard_tag
+				name="BushyBandholzWide" />
+			<beard_tag
+				name="GaribaldiBeardWide" />
+			<beard_tag
+				name="Beadedbeard" />
+			<beard_tag
+				name="Beadedbeard 2" />
+			<beard_tag
+				name="NordBeard" />
+		</beard_tags>
+		<tattoo_tags>
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Scar1" />
+			<tattoo_tag
+				name="Scar2" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Scar4" />
+			<tattoo_tag
+				name="Nord5" />
+			<tattoo_tag
+				name="Nord6" />
+			<tattoo_tag
+				name="Nord7" />
+			<tattoo_tag
+				name="Nord8" />
+			<tattoo_tag
+				name="Nord9" />
+			<tattoo_tag
+				name="Nord10" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Scar15" />
+			<tattoo_tag
+				name="Scar15" />
+		</tattoo_tags>
+	</BodyProperty>
+	<BodyProperty
+		id="townsman_saxon">
+		<BodyPropertiesMin
+			version="4"
+			age="21.57"
+			weight="0.5164"
+			build="0.4485"
+			key="0000040000000000211000000101101001021111101000201111100130110100008AA00208112000000000000000000000000000000000000000000001180000" />
+		<BodyPropertiesMax
+			version="4"
+			age="74.94"
+			weight="0.9923"
+			build="0.8052"
+			key="0008F004DE003A5FFEFEEFFEAAAFFFFFF8FFFF979EF8FFFEFFFFFFEFFEFB9F9F08EAA0890EFFFFFF000000000000000000000000000000000000000077C89005" />
+		<hair_tags>
+			<hair_tag
+				name="Bald" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Ponytail" />
+			<hair_tag
+				name="LongAndBushy" />
+			<hair_tag
+				name="Mohawk" />
+			<hair_tag
+				name="TiedAcrossBack" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="SlickedLong" />
+			<hair_tag
+				name="Bandit Hair 2" />
+			<hair_tag
+				name="PartedAndCombedBack" />
+			<hair_tag
+				name="Bandit Hair 3" />
+			<hair_tag
+				name="HighPonytail" />
+			<hair_tag
+				name="Mohawk" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="Bowl" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="Monk Hair" />
+		</hair_tags>
+		<beard_tags>
+			<beard_tag
+				name="Cleanshaven" />
+			<beard_tag
+				name="DroopyMustache" />
+			<beard_tag
+				name="DroopyMustache" />
+			<beard_tag
+				name="DutchTiedBeard" />
+			<beard_tag
+				name="BeardWithShavedCheeks" />
+			<beard_tag
+				name="LightShortBeard" />
+			<beard_tag
+				name="LongTiedBeard" />
+			<beard_tag
+				name="HeavyShortBeard" />
+			<beard_tag
+				name="PointedShortBeard" />
+			<beard_tag
+				name="PointedShortBeard" />
+			<beard_tag
+				name="LongBeard" />
+			<beard_tag
+				name="LongBeard" />
+			<beard_tag
+				name="HeavyLongBeard" />
+			<beard_tag
+				name="HeavyLongBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongTiedBeard" />
+			<beard_tag
+				name="DroopingMustacheAndBeard" />
+			<beard_tag
+				name="TiedBeardShavenCheeks" />
+			<beard_tag
+				name="BraidedAndFullBeard" />
+			<beard_tag
+				name="TiedBeardShavenCheeks" />
+			<beard_tag
+				name="ChinGoatee" />
+			<beard_tag
+				name="FrenchForkBeard" />
+			<beard_tag
+				name="FrenchForkBeardBalbo" />
+			<beard_tag
+				name="BushyBandholz" />
+			<beard_tag
+				name="BushyBandholzLong" />
+			<beard_tag
+				name="BushyBandholzWide" />
+			<beard_tag
+				name="GaribaldiBeard" />
+			<beard_tag
+				name="BushyBandholzLong" />
+			<beard_tag
+				name="BushyBandholzWide" />
+			<beard_tag
+				name="GaribaldiBeardWide" />
+			<beard_tag
+				name="Beadedbeard" />
+			<beard_tag
+				name="Beadedbeard 2" />
+			<beard_tag
+				name="NordBeard" />
+		</beard_tags>
+		<tattoo_tags>
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Scar1" />
+			<tattoo_tag
+				name="Scar2" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Scar4" />
+			<tattoo_tag
+				name="Nord5" />
+			<tattoo_tag
+				name="Nord6" />
+			<tattoo_tag
+				name="Nord7" />
+			<tattoo_tag
+				name="Nord8" />
+			<tattoo_tag
+				name="Nord9" />
+			<tattoo_tag
+				name="Nord10" />
+			<tattoo_tag
+				name="Scar15" />
+			<tattoo_tag
+				name="Scar15" />
+		</tattoo_tags>
+	</BodyProperty>
+	<BodyProperty
+		id="townswoman_saxon">
+		<BodyPropertiesMin
+			version="4"
+			age="22.55"
+			weight="0.2818"
+			build="0.4586"
+			key="000AA008210030153063F379241320F86C599A764AA4242B600800F27200600A00ABB6030AFF7FF600000000000000000000000000000000000000007D640142" />
+		<BodyPropertiesMax
+			version="4"
+			age="64.36"
+			weight="0.8501"
+			build="0.868"
+			key="0000000080000000506F030000007000C0A5000063701000F503000F60F0000A00477603043300000000000000000000000000000000000000000000008C8002" />
+		<hair_tags>
+			<hair_tag
+				name="High Ponytail" />
+			<hair_tag
+				name="LongOvershoulder" />
+			<hair_tag
+				name="TiedLongOverShoulder" />
+			<hair_tag
+				name="AboveShoulderLength" />
+			<hair_tag
+				name="TiedInBack" />
+			<hair_tag
+				name="BraidedInBack" />
+			<hair_tag
+				name="ShoulderLengthTied" />
+			<hair_tag
+				name="Cornrows" />
+			<hair_tag
+				name="Cornrows" />
+			<hair_tag
+				name="CornrowMohawk" />
+			<hair_tag
+				name="CornrowMohawk" />
+			<hair_tag
+				name="BraidedAboveEars" />
+			<hair_tag
+				name="Ukrainian" />
+			<hair_tag
+				name="RestingOnShoulders" />
+			<hair_tag
+				name="VeryShort" />
+			<hair_tag
+				name="Bobbed" />
+			<hair_tag
+				name="Native Braids" />
+			<hair_tag
+				name="High Ponytail" />
+			<hair_tag
+				name="CrownBraid" />
+			<hair_tag
+				name="CrownBraid" />
+			<hair_tag
+				name="CrownBraid" />
+			<hair_tag
+				name="CrownBraid" />
+		</hair_tags>
+		<tattoo_tags>
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Eastern14" />
+			<tattoo_tag
+				name="Sca11" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Scar1" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Eastern15" />
+			<tattoo_tag
+				name="Eastern15" />
+			<tattoo_tag
+				name="Eastern16" />
+			<tattoo_tag
+				name="Eastern16" />
+			<tattoo_tag
+				name="Eastern17" />
+			<tattoo_tag
+				name="Eastern17" />
+			<tattoo_tag
+				name="Eastern18" />
+			<tattoo_tag
+				name="Eastern18" />
+			<tattoo_tag
+				name="Eastern19" />
+			<tattoo_tag
+				name="Eastern19" />
+			<tattoo_tag
+				name="Nord5" />
+			<tattoo_tag
+				name="Nord6" />
+			<tattoo_tag
+				name="Nord7" />
+			<tattoo_tag
+				name="Nord8" />
+			<tattoo_tag
+				name="Nord9" />
+			<tattoo_tag
+				name="Nord10" />
+		</tattoo_tags>
+	</BodyProperty>
+	<BodyProperty
+		id="fighter_saxon">
+		<BodyPropertiesMin
+			version="4"
+			age="20.03"
+			weight="0.5867"
+			build="0.5523"
+			key="0000040000000000211000000101101001021111101000201111100130110100009AA00209112000000000000000000000000000000000000000000001300000" />
+		<BodyPropertiesMax
+			version="4"
+			age="42.04"
+			weight="0.9936"
+			build="0.9944"
+			key="0008F004DE003A5FFEFEEFFEAAAFFFFFF8FFFF979EF8FFFEFFFFFFEFFEFB9F9F03EAA0350EFFFFFF000000000000000000000000000000000000000077C89005" />
+		<hair_tags>
+			<hair_tag
+				name="Bald" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Ponytail" />
+			<hair_tag
+				name="LongAndBushy" />
+			<hair_tag
+				name="Mohawk" />
+			<hair_tag
+				name="TiedAcrossBack" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="SlickedLong" />
+			<hair_tag
+				name="Bandit Hair 2" />
+			<hair_tag
+				name="Bandit Hair 3" />
+			<hair_tag
+				name="HighPonytail" />
+			<hair_tag
+				name="Mohawk" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="Bowl" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="Monk Hair" />
+		</hair_tags>
+		<beard_tags>
+			<beard_tag
+				name="Cleanshaven" />
+			<beard_tag
+				name="DroopyMustache" />
+			<beard_tag
+				name="DroopyMustache" />
+			<beard_tag
+				name="DutchTiedBeard" />
+			<beard_tag
+				name="BeardWithShavedCheeks" />
+			<beard_tag
+				name="LightShortBeard" />
+			<beard_tag
+				name="LongTiedBeard" />
+			<beard_tag
+				name="HeavyShortBeard" />
+			<beard_tag
+				name="PointedShortBeard" />
+			<beard_tag
+				name="PointedShortBeard" />
+			<beard_tag
+				name="LongBeard" />
+			<beard_tag
+				name="LongBeard" />
+			<beard_tag
+				name="HeavyLongBeard" />
+			<beard_tag
+				name="HeavyLongBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongTiedBeard" />
+			<beard_tag
+				name="DroopingMustacheAndBeard" />
+			<beard_tag
+				name="TiedBeardShavenCheeks" />
+			<beard_tag
+				name="BraidedAndFullBeard" />
+			<beard_tag
+				name="TiedBeardShavenCheeks" />
+			<beard_tag
+				name="ChinGoatee" />
+			<beard_tag
+				name="FrenchForkBeard" />
+			<beard_tag
+				name="FrenchForkBeardBalbo" />
+			<beard_tag
+				name="BushyBandholz" />
+			<beard_tag
+				name="BushyBandholzLong" />
+			<beard_tag
+				name="BushyBandholzWide" />
+			<beard_tag
+				name="GaribaldiBeard" />
+			<beard_tag
+				name="BushyBandholzLong" />
+			<beard_tag
+				name="BushyBandholzWide" />
+			<beard_tag
+				name="GaribaldiBeardWide" />
+			<beard_tag
+				name="Beadedbeard" />
+			<beard_tag
+				name="Beadedbeard 2" />
+			<beard_tag
+				name="NordBeard" />
+			<beard_tag
+				name="NordBeard" />
+			<beard_tag
+				name="NordBeard" />
+		</beard_tags>
+		<tattoo_tags>
+			<tattoo_tag
+				name="Nord1" />
+			<tattoo_tag
+				name="Nord2" />
+			<tattoo_tag
+				name="Nord3" />
+			<tattoo_tag
+				name="Nord4" />
+			<tattoo_tag
+				name="Nord5" />
+			<tattoo_tag
+				name="Nord7" />
+			<tattoo_tag
+				name="Nord9" />
+			<tattoo_tag
+				name="Nord10" />
+			<tattoo_tag
+				name="Nord1" />
+			<tattoo_tag
+				name="Nord2" />
+			<tattoo_tag
+				name="Nord3" />
+			<tattoo_tag
+				name="Nord4" />
+			<tattoo_tag
+				name="Scar3" />
+			<tattoo_tag
+				name="Eastern10" />
+			<tattoo_tag
+				name="Scar4" />
+			<tattoo_tag
+				name="Scar5" />
+			<tattoo_tag
+				name="Scar6" />
+			<tattoo_tag
+				name="Scar7" />
+			<tattoo_tag
+				name="Scar9" />
+			<tattoo_tag
+				name="Scar10" />
+			<tattoo_tag
+				name="Scar11" />
+			<tattoo_tag
+				name="Scar12" />
+			<tattoo_tag
+				name="Scar13" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Cleanface" />
+			<tattoo_tag
+				name="Nord4" />
+			<tattoo_tag
+				name="Scar15" />
+			<tattoo_tag
+				name="Scar15" />
+			<tattoo_tag
+				name="Scar16" />
+		</tattoo_tags>
+	</BodyProperty>
+	<BodyProperty
+		id="fighter_saxon_veteran">
+		<BodyPropertiesMin
+			version="4"
+			age="30.03"
+			weight="0.7867"
+			build="0.7523"
+			key="000004000000000021100000010110100102111110100020111110013011010001ACC0130A112000000000000000000000000000000000000000000001500000" />
+		<BodyPropertiesMax
+			version="4"
+			age="42.04"
+			weight="0.9936"
+			build="0.9944"
+			key="0008F004DE003A5FFEFEEFFEAAAFFFFFF8FFFF979EF8FFFEFFFFFFEFFEFB9F9F03ECC0350EFFFFFF000000000000000000000000000000000000000077C89005" />
+		<hair_tags>
+			<hair_tag
+				name="Bald" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Ponytail" />
+			<hair_tag
+				name="LongAndBushy" />
+			<hair_tag
+				name="Mohawk" />
+			<hair_tag
+				name="Mohawk" />
+			<hair_tag
+				name="TiedAcrossBack" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="Bandit Hair 2" />
+			<hair_tag
+				name="PartedAndCombedBack" />
+			<hair_tag
+				name="Bandit Hair 3" />
+			<hair_tag
+				name="HighPonytail" />
+			<hair_tag
+				name="Mohawk" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="Bowl" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="Monk Hair" />
+		</hair_tags>
+		<beard_tags>
+			<beard_tag
+				name="Cleanshaven" />
+			<beard_tag
+				name="DroopyMustache" />
+			<beard_tag
+				name="DroopyMustache" />
+			<beard_tag
+				name="DutchTiedBeard" />
+			<beard_tag
+				name="BeardWithShavedCheeks" />
+			<beard_tag
+				name="LightShortBeard" />
+			<beard_tag
+				name="LongTiedBeard" />
+			<beard_tag
+				name="HeavyShortBeard" />
+			<beard_tag
+				name="PointedShortBeard" />
+			<beard_tag
+				name="PointedShortBeard" />
+			<beard_tag
+				name="LongBeard" />
+			<beard_tag
+				name="LongBeard" />
+			<beard_tag
+				name="HeavyLongBeard" />
+			<beard_tag
+				name="HeavyLongBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongTiedBeard" />
+			<beard_tag
+				name="DroopingMustacheAndBeard" />
+			<beard_tag
+				name="TiedBeardShavenCheeks" />
+			<beard_tag
+				name="BraidedAndFullBeard" />
+			<beard_tag
+				name="TiedBeardShavenCheeks" />
+			<beard_tag
+				name="ChinGoatee" />
+			<beard_tag
+				name="FrenchForkBeard" />
+			<beard_tag
+				name="FrenchForkBeardBalbo" />
+			<beard_tag
+				name="BushyBandholz" />
+			<beard_tag
+				name="BushyBandholzLong" />
+			<beard_tag
+				name="BushyBandholzWide" />
+			<beard_tag
+				name="GaribaldiBeard" />
+			<beard_tag
+				name="BushyBandholzLong" />
+			<beard_tag
+				name="BushyBandholzWide" />
+			<beard_tag
+				name="GaribaldiBeardWide" />
+			<beard_tag
+				name="Beadedbeard" />
+			<beard_tag
+				name="Beadedbeard 2" />
+			<beard_tag
+				name="NordBeard" />
+		</beard_tags>
+		<tattoo_tags>
+			<tattoo_tag
+				name="Nord1" />
+			<tattoo_tag
+				name="Nord2" />
+			<tattoo_tag
+				name="Nord3" />
+			<tattoo_tag
+				name="Nord4" />
+			<tattoo_tag
+				name="Nord1" />
+			<tattoo_tag
+				name="Nord2" />
+			<tattoo_tag
+				name="Nord3" />
+			<tattoo_tag
+				name="Nord4" />
+			<tattoo_tag
+				name="Nord5" />
+			<tattoo_tag
+				name="Nord7" />
+			<tattoo_tag
+				name="Nord9" />
+			<tattoo_tag
+				name="Nord10" />
+			<tattoo_tag
+				name="Scar3" />
+			<tattoo_tag
+				name="Eastern10" />
+			<tattoo_tag
+				name="Scar4" />
+			<tattoo_tag
+				name="Scar5" />
+			<tattoo_tag
+				name="Scar6" />
+			<tattoo_tag
+				name="Scar7" />
+			<tattoo_tag
+				name="Scar9" />
+			<tattoo_tag
+				name="Scar10" />
+			<tattoo_tag
+				name="Scar11" />
+			<tattoo_tag
+				name="Scar12" />
+			<tattoo_tag
+				name="Scar13" />
+			<tattoo_tag
+				name="Nord4" />
+			<tattoo_tag
+				name="Scar15" />
+			<tattoo_tag
+				name="Scar15" />
+			<tattoo_tag
+				name="Scar16" />
+		</tattoo_tags>
+	</BodyProperty>
+	<BodyProperty
+		id="fighter_saxon_berserkr">
+		<BodyPropertiesMin
+			version="4"
+			age="35.03"
+			weight="0.9867"
+			build="0.8823"
+			key="000004000000000021100000010110100102111110100020111110013011010002CCC0240C112000000000000000000000000000000000000000000001980000" />
+		<BodyPropertiesMax
+			version="4"
+			age="42.04"
+			weight="0.9936"
+			build="0.9944"
+			key="0008F004DE003A5FFEFEEFFEAAAFFFFFF8FFFF979EF8FFFEFFFFFFEFFEFB9F9F02FCC0240FFFFFFF000000000000000000000000000000000000000077F09005" />
+		<hair_tags>
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Ponytail" />
+			<hair_tag
+				name="LongAndBushy" />
+			<hair_tag
+				name="TiedAcrossBack" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="Bandit Hair 2" />
+			<hair_tag
+				name="Bandit Hair 3" />
+			<hair_tag
+				name="Mohawk" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="Bowl" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="Monk Hair" />
+		</hair_tags>
+		<beard_tags>
+			<beard_tag
+				name="LongTiedBeard" />
+			<beard_tag
+				name="HeavyShortBeard" />
+			<beard_tag
+				name="PointedShortBeard" />
+			<beard_tag
+				name="PointedShortBeard" />
+			<beard_tag
+				name="LongBeard" />
+			<beard_tag
+				name="LongBeard" />
+			<beard_tag
+				name="HeavyLongBeard" />
+			<beard_tag
+				name="HeavyLongBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongTiedBeard" />
+			<beard_tag
+				name="DroopingMustacheAndBeard" />
+			<beard_tag
+				name="TiedBeardShavenCheeks" />
+			<beard_tag
+				name="BraidedAndFullBeard" />
+			<beard_tag
+				name="TiedBeardShavenCheeks" />
+			<beard_tag
+				name="FrenchForkBeard" />
+			<beard_tag
+				name="FrenchForkBeardBalbo" />
+			<beard_tag
+				name="BushyBandholz" />
+			<beard_tag
+				name="BushyBandholzLong" />
+			<beard_tag
+				name="BushyBandholzWide" />
+			<beard_tag
+				name="GaribaldiBeard" />
+			<beard_tag
+				name="BushyBandholzLong" />
+			<beard_tag
+				name="BushyBandholzWide" />
+			<beard_tag
+				name="GaribaldiBeardWide" />
+			<beard_tag
+				name="Beadedbeard" />
+			<beard_tag
+				name="Beadedbeard 2" />
+			<beard_tag
+				name="NordBeard" />
+		</beard_tags>
+		<tattoo_tags>
+			<tattoo_tag
+				name="Nord1" />
+			<tattoo_tag
+				name="Nord4" />
+			<tattoo_tag
+				name="Nord8" />
+			<tattoo_tag
+				name="Eastern10" />
+			<tattoo_tag
+				name="Sacr3" />
+			<tattoo_tag
+				name="Sacr5" />
+			<tattoo_tag
+				name="Sacr9" />
+		</tattoo_tags>
+	</BodyProperty>
+	<BodyProperty
+		id="default_character_creation_body_property_saxon">
+		<BodyPropertiesMin
+			version="4"
+			age="25.84"
+			weight="0.5000"
+			build="0.5000"
+			key="0000540000A02ADDF99F698A8B177774E0B0BE007DA3B8028C5710FFA0F2304D00B776030B9EB2860000000000000000000000000000000000000000636C3002" />
+		<BodyPropertiesMax
+			version="4"
+			age="25.84"
+			weight="0.5000"
+			build="0.5000"
+			key="0000540000A02ADDF99F698A8B177774E0B0BE007DA3B8028C5710FFA0F2304D00B776030B9EB2860000000000000000000000000000000000000000636C3002" />
+		<hair_tags>
+			<hair_tag
+				name="Ponytail" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 1" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 2" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="Viking Hair 3" />
+			<hair_tag
+				name="LongAndBushy" />
+			<hair_tag
+				name="Mohawk" />
+			<hair_tag
+				name="TiedAcrossBack" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="SlickedLong" />
+			<hair_tag
+				name="Bandit Hair 2" />
+			<hair_tag
+				name="PartedAndCombedBack" />
+			<hair_tag
+				name="Bandit Hair 2" />
+			<hair_tag
+				name="Bandit Hair 3" />
+			<hair_tag
+				name="Bandit Hair 3" />
+			<hair_tag
+				name="HighPonytail" />
+			<hair_tag
+				name="Mohawk" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="Bowl" />
+			<hair_tag
+				name="Bowl" />
+			<hair_tag
+				name="Viking Hair" />
+			<hair_tag
+				name="Monk Hair" />
+			<hair_tag
+				name="Monk Hair" />
+		</hair_tags>
+		<beard_tags>
+			<beard_tag
+				name="Cleanshaven" />
+			<beard_tag
+				name="DroopyMustache" />
+			<beard_tag
+				name="DroopyMustache" />
+			<beard_tag
+				name="DutchTiedBeard" />
+			<beard_tag
+				name="BeardWithShavedCheeks" />
+			<beard_tag
+				name="LightShortBeard" />
+			<beard_tag
+				name="LongTiedBeard" />
+			<beard_tag
+				name="HeavyShortBeard" />
+			<beard_tag
+				name="PointedShortBeard" />
+			<beard_tag
+				name="PointedShortBeard" />
+			<beard_tag
+				name="LongBeard" />
+			<beard_tag
+				name="LongBeard" />
+			<beard_tag
+				name="HeavyLongBeard" />
+			<beard_tag
+				name="HeavyLongBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongScragglyBeard" />
+			<beard_tag
+				name="LongTiedBeard" />
+			<beard_tag
+				name="DroopingMustacheAndBeard" />
+			<beard_tag
+				name="TiedBeardShavenCheeks" />
+			<beard_tag
+				name="BraidedAndFullBeard" />
+			<beard_tag
+				name="TiedBeardShavenCheeks" />
+			<beard_tag
+				name="ChinGoatee" />
+			<beard_tag
+				name="FrenchForkBeard" />
+			<beard_tag
+				name="FrenchForkBeardBalbo" />
+			<beard_tag
+				name="BushyBandholz" />
+			<beard_tag
+				name="BushyBandholzLong" />
+			<beard_tag
+				name="BushyBandholzWide" />
+			<beard_tag
+				name="GaribaldiBeard" />
+			<beard_tag
+				name="BushyBandholzLong" />
+			<beard_tag
+				name="BushyBandholzWide" />
+			<beard_tag
+				name="GaribaldiBeardWide" />
+			<beard_tag
+				name="Beadedbeard" />
+			<beard_tag
+				name="Beadedbeard 2" />
+			<beard_tag
+				name="NordBeard" />
+		</beard_tags>
+		<tattoo_tags>
+			<tattoo_tag
+				name="Cleanface" />
+		</tattoo_tags>
+	</BodyProperty>
+</BodyProperties>

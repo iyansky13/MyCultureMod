@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+	<NPCCharacter
+		id="barbarian_lord_5_5"
+		name="{=!}Barbarian King"
+		voice="softspoken"
+		age="48"
+		default_group="Ranged"
+		is_hero="true"
+		culture="Culture.barbarian"
+		skill_template="SkillSet.spc_fian_skills"
+		occupation="Lord"
+		face_mesh_cache="true">
+		<face>
+			<BodyProperties
+				version="4"
+				weight="0.7017"
+				build="0.6334"
+				key="000268070000244226700A207474A3848C9A751498816EA389779E6A832A155105AAB0560A65B64200000000000000000000000000000000000000005F5870C2" />
+			<hair_tags>
+				<hair_tag
+					name="battania" />
+			</hair_tags>
+			<beard_tags>
+				<beard_tag
+					name="battania" />
+			</beard_tags>
+			<tattoo_tags>
+				<tattoo_tag
+					name="Cleanface" />
+			</tattoo_tags>
+		</face>
+		<Traits>
+			<Trait
+				id="BalancedFightingSkills"
+				value="4" />
+			<Trait
+				id="Commander"
+				value="8" />
+			<Trait
+				id="Politician"
+				value="12" />
+			<Trait
+				id="Manager"
+				value="10" />
+			<!-- Meledir fen Uvain, unctuous  -->
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Honor"
+				value="-1" />
+			<Trait
+				id="Generosity"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet
+				id="bat_bat_template_flamboyant" />
+			<EquipmentSet
+				id="bat_civ_template_flamboyant"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="barbarian_lord_5_6"
+		name="{=!}Barbarian Queen"
+		age="39"
+		voice="earnest"
+		default_group="Ranged"
+		is_hero="true"
+		is_female="true"
+		culture="Culture.barbarian"
+		skill_template="SkillSet.spc_diplomat_skills_rookie"
+		occupation="Lord"
+		face_mesh_cache="true">
+		<face>
+			<BodyProperties
+				version="4"
+				weight="0.5"
+				build="0.5"
+				key="001C580FC058100F59AB88926A889A68AA779A998D8ED4767782AC7E2256AA740167761306A4744300000000000000000000000000000000000000003AC42003" />
+			<hair_tags>
+				<hair_tag
+					name="battania" />
+			</hair_tags>
+			<tattoo_tags>
+				<tattoo_tag
+					name="Cleanface" />
+			</tattoo_tags>
+		</face>
+		<Traits>
+			<Trait
+				id="Politician"
+				value="6" />
+			<Trait
+				id="Manager"
+				value="8" />
+			<!-- Meledir's daughter, noncombatant female  -->
+			<Trait
+				id="Generosity"
+				value="-1" />
+			<Trait
+				id="Honor"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="bat_bat_template_medium" />
+			<EquipmentSet
+				id="bat_noncom_template_default"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+</NPCCharacters>

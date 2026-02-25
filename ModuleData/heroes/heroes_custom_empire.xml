@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+	<Hero
+		id="republic_lord_1_9"
+		spouse="Hero.republic_lord_1_10"
+		faction="Faction.clan_republic_1"
+		text="{=!}Republic SPHeroes text." />
+	<Hero
+		id="republic_lord_1_10"
+		spouse="Hero.republic_lord_1_9"
+		faction="Faction.clan_republic_1" />
+</Heroes>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+	<NPCCharacter
+		id="saxon_lord_7_5"
+		name="{=!}Saxon King"
+		default_group="Infantry"
+		age="50"
+		voice="softspoken"
+		is_hero="true"
+		is_female="true"
+		culture="Culture.saxon"
+		skill_template="SkillSet.spc_naval_trader_skills"
+		occupation="Lord"
+		face_mesh_cache="true">
+		<face>
+			<BodyProperties
+				version="4"
+				key="0002B004CE000018C74A725397B6ACE53A397B688793B648490618BAB889476B04A8B6460A879A8A0000000000000000000000000000000000000000534C40C2" />
+			<hair_tags>
+				<hair_tag
+					name="nord" />
+			</hair_tags>
+			<tattoo_tags>
+				<tattoo_tag
+					name="Cleanface" />
+			</tattoo_tags>
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="HopliteFightingSkills"
+				value="5" />
+			<Trait
+				id="Commander"
+				value="14" />
+			<Trait
+				id="Politician"
+				value="10" />
+			<Trait
+				id="Manager"
+				value="16" />
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet
+				id="nord_bat_template_lady" />
+			<EquipmentSet
+				id="nord_noncom_template_default"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="saxon_lord_7_6"
+		name="{=!}Saxon Queen"
+		voice="earnest"
+		default_group="Infantry"
+		age="47"
+		is_hero="true"
+		culture="Culture.saxon"
+		skill_template="SkillSet.spc_chatelaine_skills"
+		occupation="Lord"
+		face_mesh_cache="true">
+		<face>
+			<BodyProperties
+				version="4"
+				key="000084034F0004C1F99C89C54B9F6374E0B0BC909CB15F108C5510FFA0F2301D05BAE6570B9EB2860000000000000000000000000000000000000000636C3002" />
+			<hair_tags>
+				<hair_tag
+					name="nord" />
+			</hair_tags>
+			<beard_tags>
+				<beard_tag
+					name="nord" />
+			</beard_tags>
+			<tattoo_tags>
+				<tattoo_tag
+					name="Cleanface" />
+			</tattoo_tags>
+		</face>
+		<Traits>
+			<Trait
+				id="Politician"
+				value="10" />
+			<Trait
+				id="Manager"
+				value="14" />
+			<Trait
+				id="Generosity"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="nord_bat_template_medium" />
+			<EquipmentSet
+				id="nord_civ_template_default"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+</NPCCharacters>

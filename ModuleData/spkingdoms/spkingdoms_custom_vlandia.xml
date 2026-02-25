@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom
+		id="rhodok"
+		initial_home_settlement="Settlement.town_V1"
+		owner="Hero.rhodok_lord_1_1"
+		banner_key="11.14.14.1536.1536.764.764.1.0.0.160.15.15.497.497.764.764.1.0.0"
+		primary_banner_color="0xffF7BF46"
+		secondary_banner_color="0xff8D291A"
+		color="FFECBA44"
+		color2="FF5C2017"
+		culture="Culture.rhodok"
+		settlement_banner_mesh="encounter_flag_d"
+		flag_mesh="info_screen_flags_c"
+		name="{=!}Rhodok Kingdom"
+		short_name="{=!}Rhodok"
+		title="{=!}Kingdom of Rhodok"
+		ruler_title="{=!}King"
+		text="{=!}Rhodok SPKingdom text">
+		<relationships>
+			<relationship
+				kingdom="Kingdom.sturgia"
+				value="-1"
+				isAtWar="true" />
+		</relationships>
+	</Kingdom>
+</Kingdoms>

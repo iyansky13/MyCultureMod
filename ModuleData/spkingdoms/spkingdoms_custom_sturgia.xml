@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+	<Kingdom
+		id="vaegir"
+		initial_home_settlement="Settlement.town_S5"
+		owner="Hero.vaegir_lord_2_5"
+		banner_key="11.12.12.4345.4345.764.764.1.0.0.462.13.13.512.512.764.764.1.0.0"
+		primary_banner_color="0xffCEDAE7"
+		secondary_banner_color="0xff224277"
+		color="FF949CCC"
+		color2="FF1C2A50"
+		culture="Culture.vaegir"
+		settlement_banner_mesh="encounter_flag_b"
+		flag_mesh="info_screen_flags_c"
+		name="{=!}Vaegir"
+		short_name="{=!}Vaegir"
+		title="{=!}Principality of Vaegir"
+		ruler_title="{=!}King Vaegir"
+		text="{=!}Vaegir SPKingdom Text.">
+		<relationships>
+			<relationship
+				kingdom="Kingdom.vlandia"
+				value="-1"
+				isAtWar="true" />
+		</relationships>
+	</Kingdom>
+
+</Kingdoms>

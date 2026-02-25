@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<NPCCharacters>
+    <NPCCharacter id="rhodok_lord_1_1" name="{=!}Rhodok King" age="45" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.rhodok" skill_template="SkillSet.spc_knight_skills" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" weight="0.8019" build="0.6096" key="00040804C000100225623C58425470B50956873973717A626A844C28812366410479C04607757DB2000000000000000000000000000000000000000046F82043" />
+            <hair_tags>
+                <hair_tag name="vlandia" />
+            </hair_tags>
+            <beard_tags>
+                <beard_tag name="vlandia" />
+            </beard_tags>
+            <tattoo_tags>
+                <tattoo_tag name="Cleanface" />
+            </tattoo_tags>
+        </face>
+        <skills />
+        <Traits>
+            <Trait id="BalancedFightingSkills" value="2" />
+            <Trait id="Commander" value="6" />
+            <Trait id="Politician" value="10" />
+            <Trait id="Manager" value="4" />
+            <Trait id="Generosity" value="-1" />
+            <Trait id="Valor" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="vla_bat_template_medium" />
+            <EquipmentSet id="vla_civ_template_default" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="rhodok_lord_1_2" name="{=!}Rhodok Queen" age="45" voice="earnest" is_hero="true" default_group="Infantry" is_female="true" culture="Culture.rhodok" skill_template="SkillSet.spc_politician_skills" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" weight="0.4706" build="0.6001" key="0005180A00CC00049172105733863178A76987A967716698AB94AE398C6A5582036976350666486B00000000000000000000000000000000000000002EDC2042" />
+            <hair_tags>
+                <hair_tag name="vlandia" />
+            </hair_tags>
+            <tattoo_tags>
+                <tattoo_tag name="Cleanface" />
+            </tattoo_tags>
+        </face>
+        <Traits>
+            <Trait id="Politician" value="14" />
+            <Trait id="Manager" value="8" />
+            <Trait id="Mercy" value="-1" />
+            <Trait id="Generosity" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="vla_bat_template_medium" />
+            <EquipmentSet id="vla_noncom_template_default" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+</NPCCharacters>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+	<Faction
+		id="clan_republic_1"
+		initial_home_settlement="Settlement.town_EW6"
+		name="{=!}Republic Clan 1"
+		tier="5"
+		owner="Hero.republic_lord_1_9"
+		culture="Culture.republic"
+		super_faction="Kingdom.republic"
+		is_noble="true"
+		banner_key="11.24.4.4922.4922.764.764.1.0.0.337.5.0.272.272.764.672.0.0.0.301.5.0.292.292.764.916.0.0.90.301.5.0.292.292.764.844.0.0.270" />
+</Factions>

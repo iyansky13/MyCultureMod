@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+    Elite Recruit Pools Configuration
+    These troops spawn in villages bound to CASTLES from rural notables (headmen)
+    Place this file in: Modules/MyCultureMod/ModuleData/elite_recruit_pools.xml
+-->
+<RecruitPools>
+    
+    <!-- ===== VANILLA CULTURES ===== -->
+    
+    <Culture id="empire">
+        <Troop id="imperial_vigla_recruit" weight="60" />
+        <Troop id="aserai_youth" weight="40" />
+    </Culture>
+    
+    <Culture id="sturgia">
+        <Troop id="sturgian_warrior_son" weight="60" />
+        <Troop id="vlandian_squire" weight="40" />
+    </Culture>
+    
+    <Culture id="aserai">
+        <Troop id="aserai_youth" weight="70" />
+        <Troop id="sturgian_warrior_son" weight="30" />
+    </Culture>
+    
+    <Culture id="vlandia">
+        <Troop id="vlandian_squire" weight="60" />
+        <Troop id="imperial_vigla_recruit" weight="40" />
+    </Culture>
+    
+    <Culture id="battania">
+        <Troop id="battanian_highborn_youth" weight="60" />
+        <Troop id="sturgian_warrior_son" weight="40" />
+    </Culture>
+    
+    <Culture id="khuzait">
+        <Troop id="khuzait_noble_son" weight="70" />
+        <Troop id="battanian_highborn_youth" weight="30" />
+    </Culture>
+    
+    <!-- ===== CUSTOM CULTURES ===== -->
+    
+    <!-- Sarranid - Elite troops for castle-bound villages -->
+    <Culture id="sarranid">
+        <Troop id="aserai_youth" weight="70" />   <!-- Elite infantry -->
+        <Troop id="battanian_highborn_youth" weight="30" />  <!-- Elite archer -->
+    </Culture>
+    
+    <!-- Rhodok - Elite crossbowmen and heavy infantry -->
+    <Culture id="rhodok">
+        <Troop id="vlandian_squire" weight="50" />
+        <Troop id="khuzait_noble_son" weight="50" />
+    </Culture>
+    
+    <!-- Saxon (Nord) - Elite huscarls and archers -->
+    <Culture id="saxon">
+        <Troop id="sturgian_warrior_son" weight="60" />
+        <Troop id="imperial_vigla_recruit" weight="40" />
+    </Culture>
+    
+    <!-- Vaegir - Elite marksmen and infantry -->
+    <Culture id="vaegir">
+        <Troop id="vlandian_squire" weight="40" />
+        <Troop id="sturgian_warrior_son" weight="60" />
+    </Culture>
+    
+    <!-- Barbarian - Elite forest warriors -->
+    <Culture id="barbarian">
+        <Troop id="sturgian_warrior_son" weight="50" />
+        <Troop id="vlandian_squire" weight="50" />
+    </Culture>
+    
+</RecruitPools>

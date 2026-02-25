@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SPCultures>
+	<Culture
+		id="saxon"
+		name="{=!}Saxon"
+		is_main_culture="true"
+		color="0xFF202931"
+		color2="0xFFB7623C"
+		elite_basic_troop="NPCCharacter.nord_ungmann"
+		basic_troop="NPCCharacter.nord_youngling"
+		melee_militia_troop="NPCCharacter.nord_militia_spearman"
+		ranged_militia_troop="NPCCharacter.nord_militia_archer"
+		melee_elite_militia_troop="NPCCharacter.nord_militia_veteran_spearman"
+		ranged_elite_militia_troop="NPCCharacter.nord_militia_veteran_archer"
+		can_have_settlement="true"
+		villager_party_template="PartyTemplate.villager_nord_template"
+		default_party_template="PartyTemplate.kingdom_hero_party_nord_template"
+		bandit_boss_party_template="PartyTemplate.sea_raiders_boss_party_template"
+		settlement_patrol_template_level_1="PartyTemplate.patrol_party_nord_template_level_1"
+		settlement_patrol_template_level_2="PartyTemplate.patrol_party_nord_template_level_2"
+		settlement_patrol_template_level_3="PartyTemplate.patrol_party_nord_template_level_3"
+		encounter_background_mesh="encounter_nord"
+		faction_banner_key="11.218.218.4345.4345.764.764.1.0.0.175.219.219.512.512.764.764.1.0.0"
+		militia_party_template="PartyTemplate.militia_nord_template"
+		rebels_party_template="PartyTemplate.rebels_nord_template"
+		vassal_reward_party_template="PartyTemplate.vassal_reward_troops_nord"
+		text="{=!}The Saxon SPCulture Text."
+		tournament_master="NPCCharacter.tournament_master_nord"
+		villager="NPCCharacter.villager_nord"
+		caravan_master="NPCCharacter.caravan_master_nord"
+		caravan_guard="NPCCharacter.caravan_guard_nord"
+		veteran_caravan_guard="NPCCharacter.veteran_caravan_guard_nord"
+		prison_guard="NPCCharacter.prison_guard_nord"
+		guard="NPCCharacter.guard_nord"
+		blacksmith="NPCCharacter.blacksmith_nord"
+		weaponsmith="NPCCharacter.weaponsmith_nord"
+		townswoman="NPCCharacter.townswoman_nord"
+		townswoman_infant="NPCCharacter.townswoman_infant_nord"
+		townswoman_child="NPCCharacter.townswoman_child_nord"
+		townswoman_teenager="NPCCharacter.townswoman_teenager_nord"
+		townsman="NPCCharacter.townsman_nord"
+		townsman_infant="NPCCharacter.townsman_infant_nord"
+		townsman_child="NPCCharacter.townsman_child_nord"
+		townsman_teenager="NPCCharacter.townsman_teenager_nord"
+		village_woman="NPCCharacter.village_woman_nord"
+		villager_male_child="NPCCharacter.villager_child_nord"
+		villager_male_teenager="NPCCharacter.villager_teenager_nord"
+		villager_female_child="NPCCharacter.village_woman_child_nord"
+		villager_female_teenager="NPCCharacter.village_woman_teenager_nord"
+		ransom_broker="NPCCharacter.ransom_broker_nord"
+		gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_nord"
+		merchant_notary="NPCCharacter.merchant_notary_nord"
+		artisan_notary="NPCCharacter.artisan_notary_nord"
+		preacher_notary="NPCCharacter.preacher_notary_nord"
+		rural_notable_notary="NPCCharacter.rural_notable_notary_nord"
+		shop_worker="NPCCharacter.shop_worker_nord"
+		tavernkeeper="NPCCharacter.tavernkeeper_nord"
+		taverngamehost="NPCCharacter.taverngamehost_nord"
+		musician="NPCCharacter.musician_nord"
+		tavern_wench="NPCCharacter.tavern_wench_nord"
+		armorer="NPCCharacter.armorer_nord"
+		horseMerchant="NPCCharacter.horseMerchant_nord"
+		barber="NPCCharacter.barber_nord"
+		merchant="NPCCharacter.merchant_nord"
+		beggar="NPCCharacter.beggar_nord"
+		female_beggar="NPCCharacter.female_beggar_nord"
+		female_dancer="NPCCharacter.female_dancer_nord"
+		default_battle_equipment_roster="EquipmentRoster.nord_civ_template_default"
+		default_civilian_equipment_roster="EquipmentRoster.nord_civ_template_default"
+		default_stealth_equipment_roster="EquipmentRoster.default_stealth_equipment_roster"
+		duel_preset_equipment_roster="EquipmentRoster.nord_duel_preset_template"
+		marriage_bride_equipment_roster="EquipmentRoster.marriage_female_nord_cutscene_template"
+		board_game_type="Konane"
+		default_character_creation_body_property="BodyProperty.default_character_creation_body_property_nord"
+		start_point_position_x="725"
+		start_point_position_y="811"
+		naval_factor="2.4"
+		shipwright="NPCCharacter.shipwright_nord"
+		fishing_party_template="PartyTemplate.fishing_party_template_nord"
+		settlement_patrol_template_coastal="PartyTemplate.patrol_party_nord_template_coastal">
+
+		<notable_and_wanderer_templates>
+        </notable_and_wanderer_templates>
+        <caravan_party_templates>
+            <caravan_party_template id="PartyTemplate.caravan_template_nord" />
+			<caravan_party_template id="PartyTemplate.naval_caravan_template_nord" />
+        </caravan_party_templates>
+        <elite_caravan_party_templates>
+            <caravan_party_template id="PartyTemplate.elite_caravan_template_nord" />
+			<caravan_party_template id="PartyTemplate.elite_naval_caravan_template_nord" />
+        </elite_caravan_party_templates>
+		<available_ship_hulls>
+            <ship_hull id="ShipHull.northern_light_ship"/>
+            <ship_hull id="ShipHull.northern_medium_ship"/>
+            <ship_hull id="ShipHull.nord_medium_ship"/>
+            <ship_hull id="ShipHull.northern_trade_ship"/>
+        </available_ship_hulls>
+
+		<vassal_reward_items>
+			<item id="Item.nord_shield_tier_6_a" />
+		</vassal_reward_items>
+		
+		<default_policies>
+			<policy id="policy_lawspeakers" />
+			<policy id="policy_precarial_land_tenure" />
+		</default_policies>
+		<male_names>
+			<name name="{=!}Aegi" />
+			<name name="{=!}Aerald" />
+			<name name="{=!}Aesgeirr" />
+			<name name="{=!}Alaric" />
+			<name name="{=!}Aldric" />
+			<name name="{=!}Alfgeir" />
+			<name name="{=!}Alfr" />
+			<name name="{=!}Arnbjorn" />
+			<name name="{=!}Arnfinn" />
+			<name name="{=!}Arngeir" />
+			<name name="{=!}Arngrim" />
+			<name name="{=!}Arnulf" />
+			<name name="{=!}Asgeirr" />
+			<name name="{=!}Askold" />
+			<name name="{=!}Asmund" />
+			<name name="{=!}Asolf" />
+			<name name="{=!}Athelric" />
+			<name name="{=!}Baldur" />
+			<name name="{=!}Bjorn" />
+			<name name="{=!}Bjornulf" />
+			<name name="{=!}Brand" />
+			<name name="{=!}Brondolf" />
+			<name name="{=!}Dagfinn" />
+			<name name="{=!}Eadric" />
+			<name name="{=!}Eirikr" />
+			<name name="{=!}Eofor" />
+			<name name="{=!}Erikr" />
+			<name name="{=!}Finnr" />
+			<name name="{=!}Folkvar" />
+			<name name="{=!}Freyr" />
+			<name name="{=!}Garmund" />
+			<name name="{=!}Gautrekr" />
+			<name name="{=!}Geirmund" />
+			<name name="{=!}Geirvald" />
+			<name name="{=!}Gisli" />
+			<name name="{=!}Godric" />
+			<name name="{=!}Grimr" />
+			<name name="{=!}Gundulf" />
+			<name name="{=!}Gunnar" />
+			<name name="{=!}Gunnhild" />
+			<name name="{=!}Guthrum" />
+			<name name="{=!}Halfdan" />
+			<name name="{=!}Harald" />
+			<name name="{=!}Hardbern" />
+			<name name="{=!}Hathagat" />
+			<name name="{=!}Hengist" />
+			<name name="{=!}Herjolf" />
+			<name name="{=!}Hjalmar" />
+			<name name="{=!}Hjalti" />
+			<name name="{=!}Hrafn" />
+			<name name="{=!}Hrolf" />
+			<name name="{=!}Hrosskel" />
+			<name name="{=!}Hrothi" />
+			<name name="{=!}Ivarr" />
+			<name name="{=!}Jarl" />
+			<name name="{=!}Jarnskeggi" />
+			<name name="{=!}Jorund" />
+			<name name="{=!}Ketill" />
+			<name name="{=!}Kjartan" />
+			<name name="{=!}Knut" />
+			<name name="{=!}Kolr" />
+			<name name="{=!}Leif" />
+			<name name="{=!}Magnus" />
+			<name name="{=!}Njal" />
+			<name name="{=!}Olaf" />
+			<name name="{=!}Ongul" />
+			<name name="{=!}Orm" />
+			<name name="{=!}Osvald" />
+			<name name="{=!}Ragnar" />
+			<name name="{=!}Ragnvald" />
+			<name name="{=!}Reginald" />
+			<name name="{=!}Rolf" />
+			<name name="{=!}Sigbrand" />
+			<name name="{=!}Sigebert" />
+			<name name="{=!}Sigehelm" />
+			<name name="{=!}Sigfus" />
+			<name name="{=!}Sigmund" />
+			<name name="{=!}Sigtrygg" />
+			<name name="{=!}Sigurd" />
+			<name name="{=!}Sigvat" />
+			<name name="{=!}Skeggi" />
+			<name name="{=!}Skuli" />
+			<name name="{=!}Snorri" />
+			<name name="{=!}Steinn" />
+			<name name="{=!}Styrbjorn" />
+			<name name="{=!}Sveinald" />
+			<name name="{=!}Sveinn" />
+			<name name="{=!}Thengel" />
+			<name name="{=!}Thorbrand" />
+			<name name="{=!}Thorfast" />
+			<name name="{=!}Thorfinn" />
+			<name name="{=!}Thorgaut" />
+			<name name="{=!}Thorgnyr" />
+			<name name="{=!}Thorkell" />
+			<name name="{=!}Thorolf" />
+			<name name="{=!}Thorstein" />
+			<name name="{=!}Thorvald" />
+			<name name="{=!}Thrain" />
+			<name name="{=!}Thrand" />
+			<name name="{=!}Thurstan" />
+			<name name="{=!}Toki" />
+			<name name="{=!}Torfi" />
+			<name name="{=!}Tosti" />
+			<name name="{=!}Ulf" />
+			<name name="{=!}Ulfbert" />
+			<name name="{=!}Ulfhild" />
+			<name name="{=!}Ulfkell" />
+			<name name="{=!}Valthjof" />
+			<name name="{=!}Vigfus" />
+		</male_names>
+		<female_names>
+			<name name="{=!}Aesa" />
+			<name name="{=!}Aethelthryth" />
+			<name name="{=!}Alfhild" />
+			<name name="{=!}Asa" />
+			<name name="{=!}Asgerdr" />
+			<name name="{=!}Asny" />
+			<name name="{=!}Astrid" />
+			<name name="{=!}Bergdis" />
+			<name name="{=!}Bergthora" />
+			<name name="{=!}Brynhild" />
+			<name name="{=!}Dalla" />
+			<name name="{=!}Eanfled" />
+			<name name="{=!}Eithne" />
+			<name name="{=!}Freydis" />
+			<name name="{=!}Frida" />
+			<name name="{=!}Gerda" />
+			<name name="{=!}Grimhild" />
+			<name name="{=!}Gudrun" />
+			<name name="{=!}Gunnhild" />
+			<name name="{=!}Gyda" />
+			<name name="{=!}Halla" />
+			<name name="{=!}Hallbera" />
+			<name name="{=!}Helga" />
+			<name name="{=!}Hilda" />
+			<name name="{=!}Ingerd" />
+			<name name="{=!}Ingrid" />
+			<name name="{=!}Joreid" />
+			<name name="{=!}Jorunn" />
+			<name name="{=!}Ragnhild" />
+			<name name="{=!}Rakel" />
+			<name name="{=!}Sif" />
+			<name name="{=!}Sigfrid" />
+			<name name="{=!}Sigrid" />
+			<name name="{=!}Sigrun" />
+			<name name="{=!}Skuld" />
+			<name name="{=!}Svanhild" />
+			<name name="{=!}Thora" />
+			<name name="{=!}Thorbjorg" />
+			<name name="{=!}Thordis" />
+			<name name="{=!}Thorey" />
+			<name name="{=!}Thorgerd" />
+			<name name="{=!}Thorhild" />
+			<name name="{=!}Thorkatla" />
+			<name name="{=!}Thorunn" />
+			<name name="{=!}Thurid" />
+			<name name="{=!}Thyri" />
+			<name name="{=!}Tola" />
+			<name name="{=!}Unn" />
+			<name name="{=!}Urd" />
+			<name name="{=!}Vigdis" />
+			<name name="{=!}Yngvild" />
+		</female_names>
+		<clan_names>
+			<name name="{=gxVFrAeB}Aeralding" />
+			<name name="{=lPawN1SA}Bjulsing" />
+			<name name="{=RYfJBt0i}Erking" />
+			<name name="{=XchQmB3I}Froring" />
+			<name name="{=GalY0PDs}Gisalding" />
+			<name name="{=HgEWXVtd}Gutviding" />
+			<name name="{=VHCZzWcs}Hravalding" />
+			<name name="{=TbW9YbK2}Knalring" />
+			<name name="{=C5J5zymb}Lyffing" />
+			<name name="{=qYuwCoyc}Mjalnoring" />
+			<name name="{=qq24oTjG}Njarthing" />
+			<name name="{=ZAdbpTo1}Surthuring" />
+			<name name="{=0sawS3aZ}Thulgrimming" />
+			<name name="{=KXP0b8ra}Torving" />
+			<name name="{=Odcn2awi}Vulstaning" />
+		</clan_names>
+		<cultural_feats>
+			<feat id="nord_hostile_action_bonus" />
+			<feat id="nord_ship_movemenet_increase" />
+			<feat id="nord_decreased_cohesion_rate" />
+		</cultural_feats>
+		<possible_clan_banner_icon_ids>
+			<icon id="166" />
+			<icon id="167" />
+			<icon id="168" />
+			<icon id="169" />
+			<icon id="170" />
+			<icon id="171" />
+			<icon id="172" />
+			<icon id="173" />
+			<icon id="174" />
+			<icon id="165" />
+			<icon id="307" />
+			<icon id="331" />
+			<icon id="407" />
+			<icon id="408" />
+			<icon id="409" />
+			<icon id="410" />
+			<icon id="439" />
+			<icon id="440" />
+			<icon id="441" />
+			<icon id="442" />
+			<icon id="443" />
+			<icon id="444" />
+			<icon id="445" />
+		</possible_clan_banner_icon_ids>
+		<notable_templates>
+			<template name="NPCCharacter.spc_notable_nord_0" />
+			<template name="NPCCharacter.spc_notable_nord_0b" />
+			<template name="NPCCharacter.spc_notable_nord_1" />
+			<template name="NPCCharacter.spc_notable_nord_2" />
+			<template name="NPCCharacter.spc_notable_nord_2b" />
+			<template name="NPCCharacter.spc_notable_nord_3" />
+			<template name="NPCCharacter.spc_notable_nord_3b" />
+			<template name="NPCCharacter.spc_notable_nord_3c" />
+			<template name="NPCCharacter.spc_notable_nord_4" />
+			<template name="NPCCharacter.spc_notable_nord_5" />
+			<template name="NPCCharacter.spc_notable_nord_6" />
+			<template name="NPCCharacter.spc_notable_nord_7" />
+			<template name="NPCCharacter.spc_notable_nord_8" />
+			<template name="NPCCharacter.spc_notable_nord_9" />
+			<template name="NPCCharacter.spc_notable_nord_10" />
+			<template name="NPCCharacter.spc_nord_headman_1" />
+			<template name="NPCCharacter.spc_nord_headman_2" />
+			<template name="NPCCharacter.spc_nord_headman_3" />
+		</notable_templates>
+		<lord_templates>
+			<template name="NPCCharacter.spc_skolderbrotva_leader_0" />
+			<template name="NPCCharacter.spc_skolderbrotva_leader_1" />
+			<template name="NPCCharacter.spc_skolderbrotva_leader_2" />
+			<template name="NPCCharacter.spc_skolderbrotva_leader_3" />
+		</lord_templates>
+		<rebellion_hero_templates>
+			<template name="NPCCharacter.spc_skolderbrotva_leader_0" />
+			<template name="NPCCharacter.spc_skolderbrotva_leader_1" />
+			<template name="NPCCharacter.spc_skolderbrotva_leader_2" />
+			<template name="NPCCharacter.spc_skolderbrotva_leader_3" />
+		</rebellion_hero_templates>
+		<tournament_team_templates_one_participant>
+			<template name="NPCCharacter.tournament_template_nord_one_participant_set_v1" />
+			<template name="NPCCharacter.tournament_template_nord_one_participant_set_v2" />
+			<template name="NPCCharacter.tournament_template_nord_one_participant_set_v3" />
+		</tournament_team_templates_one_participant>
+		<tournament_team_templates_two_participant>
+			<template name="NPCCharacter.tournament_template_nord_two_participant_set_v1" />
+			<template name="NPCCharacter.tournament_template_nord_two_participant_set_v2" />
+			<template name="NPCCharacter.tournament_template_nord_two_participant_set_v3" />
+		</tournament_team_templates_two_participant>
+		<tournament_team_templates_four_participant>
+			<template name="NPCCharacter.tournament_template_nord_four_participant_set_v1" />
+			<template name="NPCCharacter.tournament_template_nord_four_participant_set_v2" />
+			<template name="NPCCharacter.tournament_template_nord_four_participant_set_v3" />
+			<template name="NPCCharacter.tournament_template_nord_four_participant_set_v4" />
+		</tournament_team_templates_four_participant>
+		<basic_mercenary_troops>
+			<template name="NPCCharacter.eastern_mercenary" />
+			<template name="NPCCharacter.western_mercenary" />
+			<template name="NPCCharacter.sword_sisters_sister_t3" />
+		</basic_mercenary_troops>
+	</Culture>
+</SPCultures>

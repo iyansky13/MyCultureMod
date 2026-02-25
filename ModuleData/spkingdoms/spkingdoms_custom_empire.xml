@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+	<Kingdom
+		id="republic"
+		initial_home_settlement="Settlement.town_EW6"
+		owner="Hero.republic_lord_1_9"
+		banner_key="11.8.8.4345.4345.764.764.1.0.0.164.9.9.512.512.764.764.1.0.0"
+		primary_banner_color="0xffFFAD54"
+		secondary_banner_color="0xff591645"
+		color="FFDE9953"
+		color2="FF9E5072"
+		culture="Culture.republic"
+		settlement_banner_mesh="encounter_flag_a"
+		flag_mesh="info_screen_flags_a"
+		name="{=!}Calradian Republic"
+		short_name="{=!}Calradian Republic"
+		title="{=!}Calradian Republic"
+		ruler_title="{=!}Senator"
+		text="{=!}SPKingdom for Calradian Republic text.">
+		<relationships>
+			<relationship
+				kingdom="Kingdom.battania"
+				value="-1"
+				isAtWar="true" />
+		</relationships>
+		<policies>
+			<policy
+				id="policy_land_grants_for_veterans" />
+		</policies>
+	</Kingdom>
+
+</Kingdoms>

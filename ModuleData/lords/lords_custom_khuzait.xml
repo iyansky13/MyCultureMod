@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<NPCCharacters>
+    <NPCCharacter id="khergit_lord_6_16" name="{=cdmrCQfC}Hurunag" age="38" voice="curt" is_female="false" is_hero="true" culture="Culture.khergit" skill_template="SkillSet.spc_quartermaster_skills_clanleader" default_group="Cavalry" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" weight="0.805" build="0.6475" key="0016E00AC00006C6507044293BC820482534773EE5DE57546D6B291183394315006BB00306556766000000000000000000000000000000000000000028C82104" />
+            <hair_tags>
+                <hair_tag name="khuzait" />
+            </hair_tags>
+            <beard_tags>
+                <beard_tag name="khuzait" />
+            </beard_tags>
+            <tattoo_tags>
+                <tattoo_tag name="Cleanface" />
+            </tattoo_tags>
+        </face>
+        <skills />
+        <Traits>
+            <Trait id="BalancedFightingSkills" value="8" />
+            <Trait id="Commander" value="10" />
+            <Trait id="Politician" value="2" />
+            <Trait id="Manager" value="6" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Mercy" value="-1" />
+            <Trait id="Calculating" value="-1" />
+            <Trait id="Generosity" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="khu_bat_template_medium" />
+            <EquipmentSet id="khu_civ_template_default" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+    <NPCCharacter id="khergit_lord_6_16_1" name="{=bVAPtfVG}Chambui" age="37" voice="softspoken" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.khergit" skill_template="SkillSet.spc_spy_master_skills" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" weight="0.805" build="0.6475" key="0016E00B40000007507044293BC820482534773EE5DE57546D6B291183394315056BB05706556766000000000000000000000000000000000000000028C82104" />
+            <hair_tags>
+                <hair_tag name="khuzait" />
+            </hair_tags>
+            <tattoo_tags>
+                <tattoo_tag name="Cleanface" />
+            </tattoo_tags>
+        </face>
+        <skills />
+        <Traits>
+            <Trait id="Politician" value="6" />
+            <Trait id="Manager" value="6" />
+            <Trait id="Valor" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="khu_bat_template_medium" />
+            <EquipmentSet id="khu_noncom_template_default" civilian="true" />
+        </Equipments>
+    </NPCCharacter>
+</NPCCharacters>

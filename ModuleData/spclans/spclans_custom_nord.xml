@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+	<Faction
+		id="clan_saxon_1"
+		name="{=!}Saxon Clan 1"
+		initial_home_settlement="Settlement.town_N3"
+		tier="4"
+		owner="Hero.saxon_lord_7_5"
+		culture="Culture.saxon"
+		super_faction="Kingdom.saxon"
+		is_noble="true"
+		banner_key="11.241.166.1528.1528.764.764.1.0.0.177.9.171.591.591.764.764.0.0.0" />
+</Factions>

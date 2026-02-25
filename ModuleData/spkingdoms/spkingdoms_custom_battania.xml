@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom
+		id="barbarian"
+		initial_home_settlement="Settlement.town_EN1"
+		owner="Hero.barbarian_lord_5_5"
+		banner_key="11.2.2.6296.6296.764.764.1.0.0.460.3.3.457.457.764.764.1.0.0"
+		primary_banner_color="0xffB4F0F1"
+		secondary_banner_color="0xff284E19"
+		color="FFBFCBB0"
+		color2="FF2D3F1D"
+		culture="Culture.barbarian"
+		settlement_banner_mesh="encounter_flag_e"
+		flag_mesh="info_screen_flags_b"
+		name="{=!}Barbarian"
+		short_name="{=!}Barbarians"
+		title="{=!}Kingdom of the Barbarians"
+		ruler_title="{=!}Barbarian King"
+		text="{=!}Barbarian SPKingdom Text.">
+		<relationships>
+			<relationship
+				kingdom="Kingdom.empire_w"
+				value="-1"
+				isAtWar="true" />
+		</relationships>
+	</Kingdom>
+</Kingdoms>

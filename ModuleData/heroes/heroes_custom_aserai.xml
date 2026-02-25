@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+	<Hero
+		id="sarranid_lord_3_5"
+		spouse="Hero.sarranid_lord_3_6"
+		faction="Faction.clan_sarranid_1" />
+	<Hero
+		id="sarranid_lord_3_6"
+		spouse="Hero.sarranid_lord_3_5"
+		faction="Faction.clan_sarranid_1" />
+</Heroes>

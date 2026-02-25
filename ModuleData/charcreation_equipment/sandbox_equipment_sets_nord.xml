@@ -1,0 +1,1405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EquipmentRosters>
+	<!--CHARACTER CREATION SHOW ARMOR SET STARTS HERE-->
+	<!--CHARACTER CREATION SHOW ARMOR SET STARTS HERE-->
+	<!--CHARACTER CREATION SHOW ARMOR SET STARTS HERE-->
+	<EquipmentRoster
+		id="mother_char_creation_none_saxon"
+		culture="Culture.empire">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_civilian_dress" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_leather_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_none_saxon"
+		culture="Culture.empire">
+		<EquipmentSet>
+			<Equipment
+				slot="Head"
+				id="Item.nordic_civilian_hat_fur_brim" />
+			<Equipment
+				slot="Body"
+				id="Item.nord_casual_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.nord_casual_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="brother_char_creation_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item2"
+				id="Item.northern_round_shield" />
+			<Equipment
+				slot="Item3"
+				id="Item.battania_mace_2_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_padded_gambeson" />
+			<Equipment
+				slot="Cape"
+				id="Item.scarf" />
+			<Equipment
+				slot="Leg"
+				id="Item.nord_casual_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sturgia_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.hooked_cleaver" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_padded_gambeson" />
+			<Equipment
+				slot="Cape"
+				id="Item.scarf" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_leather_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sturgia_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_show_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.northman_raider_armor" />
+			<Equipment
+				slot="Gloves"
+				id="Item.splinted_bracers" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_jackboots" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_battle_axe_4_t3" />
+			<Equipment
+				slot="Body"
+				id="Item.northman_raider_armor" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_jackboots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--served as a Shieldbearer to a Huscarl-->
+	<EquipmentRoster
+		id="player_char_creation_saxon_guard_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Item1"
+				id="Item.northern_round_shield" />
+			<Equipment
+				slot="Item2"
+				id="Item.nord_spear_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.nord_casual_tunic" />
+			<Equipment
+				slot="Cape"
+				id="Item.nord_casual_cloak" />
+			<Equipment
+				slot="Leg"
+				id="Item.nord_casual_boots" />
+			<Equipment
+				slot="Head"
+				id="Item.nordic_civilian_hat_fur_brim" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.nord_casual_tunic" />
+			<Equipment
+				slot="Head"
+				id="Item.nordic_civilian_hat_fur_brim" />
+			<Equipment
+				slot="Leg"
+				id="Item.nord_casual_boots" />
+			<Equipment
+				slot="Cape"
+				id="Item.nord_casual_cloak" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_saxon_guard_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Item1"
+				id="Item.northern_round_shield" />
+			<Equipment
+				slot="Item2"
+				id="Item.nord_spear_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.nord_casual_tunic" />
+			<Equipment
+				slot="Cape"
+				id="Item.nord_casual_cloak" />
+			<Equipment
+				slot="Leg"
+				id="Item.nord_casual_boots" />
+			<Equipment
+				slot="Head"
+				id="Item.nordic_civilian_hat_fur_brim" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.nord_casual_tunic" />
+			<Equipment
+				slot="Head"
+				id="Item.nordic_civilian_hat_fur_brim" />
+			<Equipment
+				slot="Leg"
+				id="Item.nord_casual_boots" />
+			<Equipment
+				slot="Cape"
+				id="Item.nord_casual_cloak" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--joined the Raiders as a lookout-->
+	<EquipmentRoster
+		id="player_char_creation_saxon_skirmisher_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.northern_round_shield" />
+			<Equipment
+				slot="Item1"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Item2"
+				id="Item.nord_throwing_axe_1_t2" />
+			<Equipment
+				slot="Item3"
+				id="Item.nord_throwing_axe_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_saxon_skirmisher_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.northern_round_shield" />
+			<Equipment
+				slot="Item1"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Item2"
+				id="Item.nord_throwing_axe_1_t2" />
+			<Equipment
+				slot="Item3"
+				id="Item.nord_throwing_axe_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+			<Equipment
+				slot="Cape"
+				id="Item.nord_casual_cloak" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_tunic" />
+			<Equipment
+				slot="Cape"
+				id="Item.nord_casual_cloak" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--drafted to war as a thrall-vagabond-->
+	<EquipmentRoster
+		id="player_char_creation_saxon_vagabond_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.nord_battle_axe_6_t2" />
+			<Equipment
+				slot="Item1"
+				id="Item.northern_round_shield" />
+			<Equipment
+				slot="Item2"
+				id="Item.nord_spear_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.nord_casual_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.nord_casual_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_saxon_vagabond_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.nord_battle_axe_6_t2" />
+			<Equipment
+				slot="Item1"
+				id="Item.northern_round_shield" />
+			<Equipment
+				slot="Item2"
+				id="Item.nord_spear_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.nord_casual_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.nord_casual_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--stood sentry at the Walls of the Hold-Bow-artisan-->
+	<EquipmentRoster
+		id="player_char_creation_saxon_artisan_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item3"
+				id="Item.mountain_hunting_bow" />
+			<Equipment
+				slot="Item2"
+				id="Item.barbed_arrows" />
+			<Equipment
+				slot="Item0"
+				id="Item.nord_hatchett_3_t1" />
+			<Equipment
+				slot="Body"
+				id="Item.nordic_sloven" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_jackboots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.nordic_sloven" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_jackboots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_saxon_artisan_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item3"
+				id="Item.mountain_hunting_bow" />
+			<Equipment
+				slot="Item2"
+				id="Item.barbed_arrows" />
+			<Equipment
+				slot="Item0"
+				id="Item.nord_hatchett_3_t1" />
+			<Equipment
+				slot="Body"
+				id="Item.nordic_sloven" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_jackboots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.nordic_sloven" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_jackboots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--- scavenged the battlefields for scraps-infantry-->
+	<EquipmentRoster
+		id="player_char_creation_saxon_infantry_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Item2"
+				id="Item.northern_round_shield" />
+			<Equipment
+				slot="Body"
+				id="Item.tundra_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.tundra_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_saxon_infantry_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Item2"
+				id="Item.northern_round_shield" />
+			<Equipment
+				slot="Body"
+				id="Item.tundra_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.tundra_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--became a warchild of the North.-Mercenary -->
+	<EquipmentRoster
+		id="player_char_creation_saxon_mercenary_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.northern_round_shield" />
+			<Equipment
+				slot="Item1"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Item2"
+				id="Item.nord_spear_javelin_1_t3" />
+			<Equipment
+				slot="Cape"
+				id="Item.scarf" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Cape"
+				id="Item.scarf" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_saxon_mercenary_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.northern_round_shield" />
+			<Equipment
+				slot="Item1"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Item2"
+				id="Item.nord_spear_javelin_1_t3" />
+			<Equipment
+				slot="Cape"
+				id="Item.scarf" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Cape"
+				id="Item.scarf" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--went serving on a raider ship-Seaferer -->
+	<EquipmentRoster
+		id="player_char_creation_saxon_seafarer_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.northern_round_shield" />
+			<Equipment
+				slot="Item1"
+				id="Item.nord_battle_axe_7_t2" />
+			<Equipment
+				slot="Item2"
+				id="Item.nord_spear_2_t2" />
+			<Equipment
+				slot="Cape"
+				id="Item.scarf" />
+			<Equipment
+				slot="Body"
+				id="Item.heavy_gambeson_armor" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.heavy_gambeson_armor" />
+			<Equipment
+				slot="Cape"
+				id="Item.scarf" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_saxon_seafarer_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.northern_round_shield" />
+			<Equipment
+				slot="Item1"
+				id="Item.nord_battle_axe_7_t2" />
+			<Equipment
+				slot="Item2"
+				id="Item.nord_spear_2_t2" />
+			<Equipment
+				slot="Cape"
+				id="Item.scarf" />
+			<Equipment
+				slot="Body"
+				id="Item.heavy_gambeson_armor" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.heavy_gambeson_armor" />
+			<Equipment
+				slot="Cape"
+				id="Item.scarf" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--Ignore 6th Option-->
+	<EquipmentRoster
+		id="player_char_creation_saxon_6_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.northern_round_shield" />
+			<Equipment
+				slot="Item1"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_leather_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Cape"
+				id="Item.female_scarf" />
+			<Equipment
+				slot="Leg"
+				id="Item.highland_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_saxon_6_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.northern_round_shield" />
+			<Equipment
+				slot="Item1"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_leather_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.nord_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Cape"
+				id="Item.female_scarf" />
+			<Equipment
+				slot="Leg"
+				id="Item.highland_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--1. Retainer-->
+	<EquipmentRoster
+		id="mother_char_creation_retainer_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_civilian_dress" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_retainer_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.northman_raider_armor" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_jackboots" />
+			<Equipment
+				slot="Head"
+				id="Item.sturgian_helmet_base" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_retainer_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nord_casual_tunic" />
+			<Equipment
+				slot="Head"
+				id="Item.nordic_civilian_hat_fur_brim" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_retainer_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nord_casual_tunic" />
+			<Equipment
+				slot="Head"
+				id="Item.nordic_civilian_hat_fur_brim" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_retainer_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_civilian_dress" />
+			<Equipment
+				slot="Head"
+				id="Item.fur_hat" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_retainer_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_civilian_dress" />
+			<Equipment
+				slot="Head"
+				id="Item.fur_hat" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--2.Trader-peddler-->
+	<EquipmentRoster
+		id="mother_char_creation_merchant_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.khuzait_dress_b" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_merchant_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.merchants_fur_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.nord_casual_boots" />
+			<Equipment
+				slot="Head"
+				id="Item.fur_hat" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_merchant_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.heavy_nordic_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_merchant_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.heavy_nordic_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_merchant_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.dress_with_overall" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_merchant_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.dress_with_overall" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--3.Bard- Skalds-->
+	<EquipmentRoster
+		id="mother_char_creation_bard_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_civilian_dress_plaid" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+			<Equipment
+				slot="Head"
+				id="Item.head_wrapped" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_bard_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nord_casual_tunic" />
+			<Equipment
+				slot="Head"
+				id="Item.nordic_civilian_hat_fur_brim" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_bard_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nord_casual_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+			<Equipment
+				slot="Cape"
+				id="Item.scarf" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_bard_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nord_casual_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+			<Equipment
+				slot="Cape"
+				id="Item.scarf" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_bard_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_civilian_dress" />
+			<Equipment
+				slot="Cape"
+				id="Item.scarf" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_bard_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_civilian_dress" />
+			<Equipment
+				slot="Cape"
+				id="Item.scarf" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--4.Artisan-->
+	<EquipmentRoster
+		id="mother_char_creation_artisan_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.dress_with_overall" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_artisan_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.leather_apron" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_cavalier_boots" />
+			<Equipment
+				slot="Head"
+				id="Item.imperial_cloth_coif" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_artisan_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_sloven" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_artisan_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_sloven" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_artisan_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_sloven" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_artisan_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_sloven" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--5.Hunter-->
+	<EquipmentRoster
+		id="mother_char_creation_hunter_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.battania_female_civil_a" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_hunter_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.battania_civil_a" />
+			<Equipment
+				slot="Leg"
+				id="Item.northman_raider_boot" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_hunter_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_hunter_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_hunter_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_hunter_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--6.Vagabond-->
+	<EquipmentRoster
+		id="mother_char_creation_vagabond_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.plain_dress" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_vagabond_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.pirate_a" />
+			<Equipment
+				slot="Leg"
+				id="Item.fine_town_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_vagabond_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.torn_bandit_clothes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_vagabond_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.torn_bandit_clothes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_vagabond_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.torn_bandit_clothes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_vagabond_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.torn_bandit_clothes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--7. Seafarer __-->
+	<EquipmentRoster
+		id="mother_char_creation_seafarer_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.northern_dress" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_seafarer_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.northern_tunic" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_seafarer_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.northern_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_seafarer_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.northern_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_seafarer_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.northern_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_seafarer_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.northern_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<!--8. shipmaster __-->
+	<EquipmentRoster
+		id="mother_char_creation_shipmaster_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.khuzait_dress" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+			<Equipment
+				slot="Cape"
+				id="Item.female_scarf" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_shipmaster_saxon"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.cloth_apron" />
+			<Equipment
+				slot="Leg"
+				id="Item.nord_casual_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_shipmaster_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.half_apron" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_saxon_shipmaster_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.half_apron" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_shipmaster_m"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.half_apron" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_saxon_shipmaster_f"
+		culture="culture.saxon">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.half_apron" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+</EquipmentRosters>

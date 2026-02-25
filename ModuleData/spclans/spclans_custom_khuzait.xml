@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+	<Faction
+		id="clan_khergit_1"
+		initial_home_settlement="Settlement.town_K1"
+		name="{=!}Khergit Clan 1"
+		tier="3"
+		owner="Hero.khergit_lord_6_16"
+		culture="Culture.khergit"
+		super_faction="Kingdom.khergit"
+		is_noble="true"
+		banner_key="11.25.10.4345.4345.780.802.1.0.0.503.11.0.164.164.904.913.0.0.0.314.11.0.508.508.764.764.0.0.0.503.11.0.164.164.624.913.0.0.0" />
+</Factions>
