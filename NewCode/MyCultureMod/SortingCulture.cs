@@ -1,0 +1,37 @@
+﻿using HarmonyLib;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using TaleWorlds.CampaignSystem.ViewModelCollection.CharacterCreation;
+using TaleWorlds.Engine.GauntletUI;
+using TaleWorlds.Library;
+using TaleWorlds.TwoDimension;
+
+namespace MyCultureMod
+{
+    // sorts cultures by name in the Culture selection list
+    [HarmonyPatch(typeof(CharacterCreationCultureStageVM), "SortCultureList")]
+    public static class SortCultureList_Patch
+    {
+        public static bool Prefix(MBBindingList<CharacterCreationCultureVM> listToWorkOn)
+        {
+            InformationManager.DisplayMessage(new InformationMessage("SortCultureList called"));
+            listToWorkOn.Sort(new NameTextComparer());
+
+            return false;
+        }
+
+        private sealed class NameTextComparer : IComparer<CharacterCreationCultureVM>
+        {
+            public int Compare(CharacterCreationCultureVM x, CharacterCreationCultureVM y)
+            {
+                // Prefer NameText; fallback to ShortenedNameText; then Culture.StringId
+                string sx = x?.NameText ?? x?.ShortenedNameText ?? x?.Culture?.StringId ?? string.Empty;
+                string sy = y?.NameText ?? y?.ShortenedNameText ?? y?.Culture?.StringId ?? string.Empty;
+                return StringComparer.InvariantCultureIgnoreCase.Compare(sx, sy);
+            }
+        }
+    }
+}
